@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sayyid.olim12@gmail.com**
 
-- 📄 Know about my experiences [https://linktr.ee/hashfiihzazii_](https://linktr.ee/hashfiihzazii_)
+- 📄 Know about my experiences [linktr.ee/sayyidoliem](https://linktr.ee/sayyidoliem)
 
 - <h3 align="left">🌐 Languages: </h3>
 <p align="left"> 
