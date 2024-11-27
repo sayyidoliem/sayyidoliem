@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently study at **Bina Pendidikan Vocational High School**
 
-- 🌱 I’m currently learning **Dart, Flutter, Kotlin, Jetpack Compose, Firebase, and Supabase**
+- 🌱 I’m currently learning **Dart, Flutter, Kotlin, Kotlin Multi-platform(KMP), Jetpack Compose, Firebase, and Supabase**
 
 - 👨‍💻 All of my projects are available 
 
