@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **Dart, Flutter, Kotlin, Kotlin Multi-platform(KMP), Jetpack Compose, Firebase, and Supabase**
 
-- 👨‍💻 All of my projects are available 
-
 - 📫 How to reach me **sayyid.olim12@gmail.com**
 
 - 📄 Know about my experiences [linktr.ee/sayyidoliem](https://linktr.ee/sayyidoliem)
 
-- <h3 align="left">🌐 Languages: </h3>
+- <h3 align="left">🌐 Tech Stack: </h3>
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=kotlin" height="56" alt="logo"  />
   <img width="8" />
@@ -29,7 +27,6 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=supabase" height="56" alt="logo"  />
 </p>
-<br>
 
 - <h3 align="left">- 🛠 Tools: </h3>
 <p align="left"> 
