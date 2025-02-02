@@ -1,5 +1,5 @@
 <h1 align="center">Hi!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sayyid</h1>
-<h3 align="center">Mobile developer | Kotlin | Flutter</h3>
+<h3 align="center">Mobile Apps developer | Photographer</h3>
 
 - 🔭 I’m currently study at **Bina Pendidikan Vocational High School**
 
